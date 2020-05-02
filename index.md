@@ -11,7 +11,7 @@ Entendo que compartilhar ideias e boas referências é uma maneira legítima de 
 
 Aceito, de bom grado, críticas e sugestões.
 
-Veja os <a href=“https://github.com/josenelsonfigueiredo/jose-nelson-figueiredo.gethub.io/blob/master/temas/temas_abordados.md/“>Temas Abordados</a>
+Veja os Temas Abordados em
 
 https://github.com/josenelsonfigueiredo/jose-nelson-figueiredo.gethub.io/blob/master/temas/temas_abordados.md
 
