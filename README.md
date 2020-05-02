@@ -11,4 +11,6 @@ Entendo que compartilhar ideias e boas referências é uma maneira legítima de 
 
 Aceito, de bom grado, críticas e sugestões.
 
+Veja os Temas Abordados
+
 Obrigado pela visita.
