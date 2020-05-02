@@ -13,4 +13,6 @@ Aceito, de bom grado, críticas e sugestões.
 
 Veja os <a href=“https://github.com/josenelsonfigueiredo/jose-nelson-figueiredo.gethub.io/blob/master/temas/temas_abordados.md/“>Temas Abordados</a>
 
+https://github.com/josenelsonfigueiredo/jose-nelson-figueiredo.gethub.io/blob/master/temas/temas_abordados.md
+
 Obrigado pela visita.
