@@ -1,6 +1,6 @@
-#Temas Abordados
+**Temas Abordados**
 
-#Tecnologia da Informação
+**Tecnologia da Informação**
 
 Transformação Digital
 
@@ -12,7 +12,7 @@ Internet of Things
 
 Inteligência Artificial
 
-#Orientação por Dados
+**Orientação por Dados**
 
 Data Literacy
 
